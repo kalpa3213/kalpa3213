@@ -1,6 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/kalpa3213/kalpa3213/main/Banner.gif)]
-<img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/kalpa3213/kalpa3213/main/Banner.gif">
-
+![MasterHead](https://raw.githubusercontent.com/kalpa3213/kalpa3213/main/Banner.gif)
 <h1 align="center"></h1>
 <h3 align="center">A passionate frontend developer/ UI|UX Enthusiast from Sri Lanka</h3>
 
