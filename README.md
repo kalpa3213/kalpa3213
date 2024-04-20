@@ -1,4 +1,4 @@
-<div align="center"> <img scr="https://github.com/kalpa3213/kalpa3213/blob/main/Banner.gif"> </div>
+<div align="center"> <img scr="https://drive.google.com/file/d/1h9CgZhRTsLXmJQl2Ljl7vRp0B8B1tVyY/view?usp=drive_link"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpa3213&label=Profile%20views&color=0e75b6&style=flat" alt="kalpa3213" /> </p>
 
