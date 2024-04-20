@@ -1,5 +1,5 @@
 
-<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/kalpa3213/kalpa3213/main/Banner.gif">
+<img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/kalpa3213/kalpa3213/main/Banner.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpa3213&label=Profile%20views&color=0e75b6&style=flat" alt="kalpa3213" /> </p>
 
