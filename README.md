@@ -1,6 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Kalpa Bandaranayake</h1>
-<h3 align="center">A passionate frontend developer/ UI|UX Enthusiast from Sri Lanka</h3>
+<div align="center"> <img scr="https://github.com/kalpa3213/kalpa3213/blob/main/Banner.gif"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpa3213&label=Profile%20views&color=0e75b6&style=flat" alt="kalpa3213" /> </p>
 
