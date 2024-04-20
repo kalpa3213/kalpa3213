@@ -1,5 +1,6 @@
-![MasterHead](https://raw.githubusercontent.com/kalpa3213/kalpa3213/main/gif1.gif)
-<h3 align="center">I'm frontend developer/ UI|UX Enthusiast from Sri Lanka, who loves blending tech and creativity to make cool stuff online. I'm all about making digital spaces that are fun to explore and easy to use. I'm always learning and keeping up with what's new in the industry to make my projects even better. I invite you to Join me in shaping the future of digital experiences, one line of code at a time.</h3>
+<img src="https://raw.githubusercontent.com/kalpa3213/kalpa3213/main/gif1.gif" alt="MasterHead" style="width: 300px;">
+
+<h3 align="left">I'm frontend developer/ UI|UX Enthusiast from Sri Lanka, who loves blending tech and creativity to make cool stuff online. I'm all about making digital spaces that are fun to explore and easy to use. I'm always learning and keeping up with what's new in the industry to make my projects even better. I invite you to Join me in shaping the future of digital experiences, one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpa3213&label=Profile%20views&color=0e75b6&style=flat" alt="kalpa3213" /> </p>
 
