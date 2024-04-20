@@ -1,4 +1,4 @@
-<div align="center"> <img scr="https://drive.google.com/file/d/1h9CgZhRTsLXmJQl2Ljl7vRp0B8B1tVyY/view?usp=drive_link"> </div>
+<div align="center"> <img scr="https://static.vecteezy.com/system/resources/thumbnails/010/481/769/small/light-and-dark-background-random-minimalist-abstract-illustration-for-logo-card-banner-web-and-printing-free-vector.jpg"> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpa3213&label=Profile%20views&color=0e75b6&style=flat" alt="kalpa3213" /> </p>
 
