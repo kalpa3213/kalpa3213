@@ -1,4 +1,3 @@
-
 <img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/kalpa3213/kalpa3213/main/Banner.gif">
 <h1 align="center">Hi, I'm Kalpa Bandaranayake</h1>
 <h3 align="center">A passionate frontend developer/ UI|UX Enthusiast from Sri Lanka</h3>
@@ -26,19 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpa3213&show_icons=true&locale=en" alt="kalpa3213" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpa3213&" alt="kalpa3213" /></p>
-
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kalpa3213"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/kalpa3213" /></a></p><br><br>
-
- <div style="margin-bottom: 20px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpa3213&show_icons=true&locale=en&layout=compact" alt="Top languages" style="max-width: 100%;">
-        </div>
-        <div style="margin-bottom: 20px;">
-            <img src="https://github-readme-stats.vercel.app/api?username=kalpa3213&show_icons=true&locale=en" alt="GitHub stats" style="max-width: 100%;">
-        </div>
-        <div>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpa3213" alt="GitHub streak stats" style="max-width: 100%;">
-        </div>
-    </div>
