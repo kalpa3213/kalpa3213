@@ -29,6 +29,7 @@
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kalpa3213"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/kalpa3213" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpa3213&show_icons=true&locale=en&layout=compact" alt="kalpa3213" /></p>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpa3213&show_icons=true&locale=en" alt="kalpa3213" /></p>
 
