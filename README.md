@@ -18,6 +18,5 @@
 
 <div class="github-stats" style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpa3213&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpa3213&show_icons=true&locale=en" alt="GitHub Stats" style="width: 350px;">
- 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpa3213" alt="GitHub Streak" style="width: 320px;">
 </div>
