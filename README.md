@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/kalpa3213" target="blank"><img src="https://img.shields.io/twitter/follow/kalpa3213?logo=twitter&style=for-the-badge" alt="kalpa3213" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [...](...)
-
-- 💬 Ask me about **MERN , Android**
-
 - 📫 How to reach me **kalpa3213@gmail.com**
 
 - 📄 Know about my experiences [...](...)
@@ -28,9 +22,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kalpa3213"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/kalpa3213" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpa3213&show_icons=true&locale=en&layout=compact" alt="kalpa3213" /></p>
-<br><br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalpa3213&show_icons=true&locale=en" alt="kalpa3213" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalpa3213&" alt="kalpa3213" /></p>
+ <div style="margin-bottom: 20px;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kalpa3213&show_icons=true&locale=en&layout=compact" alt="Top languages" style="max-width: 100%;">
+        </div>
+        <div style="margin-bottom: 20px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=kalpa3213&show_icons=true&locale=en" alt="GitHub stats" style="max-width: 100%;">
+        </div>
+        <div>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpa3213" alt="GitHub streak stats" style="max-width: 100%;">
+        </div>
+    </div>
