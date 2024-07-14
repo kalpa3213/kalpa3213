@@ -10,7 +10,7 @@ Hey there! I'm Kalpa, a frontend developer and UI/UX enthusiast hailing from sun
 ##  GitHub Stats:
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=kalpa3213&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 300px; margin: 10px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpa3213&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" style="width: 300px; margin: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpa3213&theme=github_dark_dimmed&hide_border=true" alt="GitHub Streak" style="width: 350px; margin: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalpa3213&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 300px; margin: 10px;">
 </div>
 
