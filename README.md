@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Hey there! I'm Kalpa, a frontend developer and UI/UX enthusiast hailing from sunny Sri Lanka. I thrive on merging technology with creativity to craft awesome online experiences. My passion lies in creating digital spaces that are not just functional but also delightful to explore. Always in learning mode, I stay updated with the latest industry trends to constantly elevate my projects. Let's collaborate and together, let's shape the future of digital experiences, one line of code at a time! 🚀
 
 
