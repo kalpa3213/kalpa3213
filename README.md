@@ -1,5 +1,5 @@
 
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+[![MasterHead](https://github.com/kalpa3213/kalpa3213/blob/main/Hello,%20my%20name%20is%20Kalpa.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Kalpa Bandaranayake</h1>
 
 ## About Me:
