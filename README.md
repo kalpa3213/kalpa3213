@@ -25,15 +25,11 @@ I'm a frontend developer and UI/UX enthusiast hailing from sunny Sri Lanka. I th
  
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Kalpa) 
 
-  <div style="display:flex">
-    <p align="center">
-        <img src="https://i.ibb.co/hcN5RBn/Rock-On-svg.png" alt="arrow" width="15%" />
-        <!-- -->
-       <img src="https://spotify-github-profile.vercel.app/api/view?uid=bhfe0jrhg349inb1gqap2i1fc&cover_image=true&theme=default&bar_color=ffffff&bar_color_cover=true" alt="spotify"> 
-        <img src="https://storage.googleapis.com/shasec-blog-storage/covers/Warriors.svg" alt="spotify" />
-        <img src="https://i.ibb.co/hFDrvSn/Rock-On-svg.png" alt="arrow" width="15%" />
-    </p>
-</div>
+
+
+
+
+
 
 
 
