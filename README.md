@@ -1,5 +1,6 @@
 
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+Hi 👋, I'm Kalpa Bandaranayake</h1>
 ##  About Me:
 Hey there! I'm Kalpa, a frontend developer and UI/UX enthusiast hailing from sunny Sri Lanka. I thrive on merging technology with creativity to craft awesome online experiences. My passion lies in creating digital spaces that are not just functional but also delightful to explore. Always in learning mode, I stay updated with the latest industry trends to constantly elevate my projects. Let's collaborate and together, let's shape the future of digital experiences, one line of code at a time! 🚀
 
