@@ -25,7 +25,11 @@ I'm a frontend developer and UI/UX enthusiast hailing from sunny Sri Lanka. I th
  
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Kalpa) 
 
-
+<div style="display:flex">
+    <p align="center">
+   <img src="https://storage.googleapis.com/shasec-blog-storage/covers/Warriors.svg" alt="spotify" />
+   </p>
+</div>
 
 
 
